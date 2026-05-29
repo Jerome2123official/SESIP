@@ -1,0 +1,6 @@
+{
+  "name": "Sheshan Academy",
+  "description": "LMS tuition app for studying English with lecturer Sheshan Perera. Offers student portal, Zoom live classes, downloadable study materials, AI tutor chat, and student profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
